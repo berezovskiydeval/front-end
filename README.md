@@ -7,22 +7,15 @@ It allows users to search and browse hotels, manage bookings, register, and inte
 
 ## ✨ Features
 
-- 🔍 Hotel search by location and dates  
-- 🗖 Check-in and check-out date selection  
-- 👤 Guest and room selector  
-- 📟 User registration and login modals  
-- ✅ Booking confirmation with animated success modal  
-- 🧹 Clean component-based architecture  
-- 📱 Fully responsive layout  
-- 📊 Visual guest reviews using circular SVG ratings
+- Hotel search by location and dates  
+- Check-in and check-out date selection  
+- Guest and room selector  
+- User registration and login modals  
+- Booking confirmation with animated success modal  
+- Clean component-based architecture  
+- Fully responsive layout  
+- Visual guest reviews using circular SVG ratings
 
----
-
-## 📸 Demo
-
-> Coming soon — or deploy it via **Vercel**, **Netlify**, or locally
-
----
 
 ## 🔧 Tech Stack
 
@@ -32,7 +25,6 @@ It allows users to search and browse hotels, manage bookings, register, and inte
 | React Router     | SPA navigation                  |
 | CSS              | Styling and layout              |
 | SVG / JSX        | Dynamic circular guest ratings  |
-| Vite             | Fast dev server & build tool    |
 
 ---
 
@@ -70,13 +62,6 @@ src/
    ```bash
    npm run build
    ```
-
----
-
-## 👥 Author
-
-**[Your Name]**  
-Frontend developer passionate about clean UX and reusable design.
 
 ---
 
